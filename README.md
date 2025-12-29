@@ -1,61 +1,99 @@
-# Hello There! 👋🏽 I'm Thomas Claiborne III!
+# Hey there! 👋🏽 I'm Thomas Claiborne III
 
-## About me
-✨ Gameplay Programmer specializing in C++ and C# for Unreal Engine and Unity  
-📚 Recent graduate from Full Sail University with a Bachelor's in Game Development  
-🎯 Goals: Join a game studio where I can create responsive player experiences and grow my skills  
-🎮 Fun fact: A huge anime fan! Top 3 Animes are AOT, Black Clover and Dragon Ball  
+## About Me
+
+🚀 **Software Engineer** building full-stack applications with AI integration  
+🎓 BS in Game Development from Full Sail University (GPA: 3.66)  
+💼 Previously @ TheNetVR — refactored legacy systems into component-based architectures  
+🎯 **Goal:** Join a team where I can build impactful software and continue growing as an engineer  
+🎮 Fun fact: Huge anime fan! Top 3: Attack on Titan, Black Clover, Dragon Ball
 
 ## Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </p>
 
-## Projects
-<details>
-  <summary><b>Ascension Zero</b> - Lead Gameplay Programmer</summary>
-  A 3rd-person RPG featuring dynamic combat systems, character progression, and training mini-games.
-  <ul>
-    <li>Managed a team of 9 programmers</li>
-    <li>Designed modular component-based architecture</li>
-    <li>Implemented combat, targeting, and progression systems</li>
-  </ul>
-</details>
+### Backend & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+</p>
 
-<details>
-  <summary><b>Era Code</b> - Gameplay Programmer</summary>
-  Top-down shooter with advanced weapon systems and enemy AI.
-  <ul>
-    <li>Created weapon management and upgrade systems</li>
-    <li>Implemented enemy behavior and path-finding</li>
-  </ul>
-</details>
+### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</p>
 
-<details>
-  <summary><b>Project Elysium</b> - Gameplay Programmer</summary>
-  3rd-person shooter featuring responsive controls and combat mechanics.
-  <ul>
-    <li>Developed character controller with smooth movement</li>
-    <li>Built combat and interaction systems</li>
-  </ul>
-</details>
+### Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" height="45"/>
+</p>
 
-## Connect with me
+### Game Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="45" height="45"/>
+</p>
+
+## Featured Projects
+
+### 🤖 [AI Note Cleaner](https://github.com/ThomasClaiborne/ai-note-cleaner)
+Full-stack application that transforms messy notes using AI
+- **Stack:** Java 21, Spring Boot 3.4, Spring AI, React, TypeScript, PostgreSQL
+- **Highlights:** RESTful API, Ollama/Llama 3.2 integration, 28 unit/integration tests
+
+### ⚔️ Ascension Zero
+Third-person fighter RPG — Led team of 10 developers
+- **Stack:** C++, Unreal Engine 5
+- **Highlights:** Component-based architecture, state machine combat, progression systems
+
+### 🎮 Era Code
+Top-down defense shooter — Solo developed in 4 weeks
+- **Stack:** C#, Unity, ScriptableObjects
+- **Highlights:** Data-driven wave system, weapon upgrades, persistent save/load
+
+### 🕹️ Jumping Jack
+Precision platformer with custom rendering
+- **Stack:** C++, Vulkan, EnTT (ECS)
+- **Highlights:** Custom Vulkan pipeline, pixel-perfect collision, performance optimization
+
+## Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/trc3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://thomasclaiborne.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:thomasclaiborne.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/TcTheThird" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://discordapp.com/users/TcTheThird" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TcTheThird"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to full-stack software engineering opportunities!</i>
 </p>
